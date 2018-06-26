@@ -1,4 +1,4 @@
-class StudentController < ApplicationController
+class StaticController < ApplicationController
   def about
     render "students"
   end
